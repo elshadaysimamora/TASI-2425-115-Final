@@ -1,0 +1,9 @@
+Prosedur melaporkan kerusakan fasilitas di kamar asrama adalah sebagai berikut:
+
+1. **Melapor kepada Bapak atau Ibu Asrama**: Mahasiswa yang mengalami kerusakan fasilitas di dalam kamar harus segera menyampaikan laporan tersebut kepada Bapak atau Ibu Asrama.
+
+2. **Tindak lanjut ke bagian pemeliharaan**: Setelah menerima laporan, Bapak atau Ibu Asrama akan menindaklanjuti dengan menghubungi bagian pemeliharaan (maintenance) IT Del.
+
+3. **Estimasi waktu perbaikan**: Waktu perbaikan tergantung pada jenis kerusakan dan ketersediaan teknisi, namun akan dilakukan secepat mungkin setelah laporan diteruskan ke bagian pemeliharaan.
+
+=== End Response ===

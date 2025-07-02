@@ -1,0 +1,27 @@
+Prosedur untuk mengajukan izin tidak mengikuti perkuliahan karena sakit adalah sebagai berikut:
+
+1. **Melaporkan Kondisi Kesehatan**
+   Mahasiswa yang merasa tidak sehat harus segera melapor kepada **Pembina Asrama**.
+
+2. **Pemeriksaan di Klinik**  
+   Setelah menerima laporan, Pembina Asrama akan mengarahkan mahasiswa untuk **menjalani pemeriksaan kesehatan di klinik** guna memastikan kondisi medis yang sebenarnya.
+
+3. **Hasil Pemeriksaan sebagai Acuan**  
+   Hasil dari pemeriksaan medis tersebut akan digunakan oleh Pembina Asrama sebagai dasar untuk menilai apakah mahasiswa berhak mendapatkan izin tidak mengikuti perkuliahan.
+
+4. **Pemberian Izin Khusus**  
+   Jika dinilai perlu, **Pembina Asrama akan memberikan izin khusus** kepada mahasiswa untuk tidak mengikuti perkuliahan.
+
+5. **Pelaporan Melalui CIS**  
+   Selanjutnya, Pembina Asrama akan melaporkan keputusan izin tersebut melalui **sistem Campus Information System (CIS)** kepada **Dosen yang bersangkutan**, agar data izin mahasiswa tercatat dan terkoordinasi secara resmi dalam sistem akademik.
+
+Hal-hal yang harus disiapkan:
+- Melapor kepada Pembina Asrama sesegera mungkin.
+- Bersedia melakukan pemeriksaan di klinik.
+- Menyimpan hasil pemeriksaan medis sebagai bukti. 
+
+Pihak-pihak yang harus dilapori:
+- **Pembina Asrama** (sebagai titik awal proses izin).
+- Secara tidak langsung, informasi izin akan diteruskan ke **Dosen yang bersangkutan** melalui sistem CIS oleh Pembina Asrama.
+
+=== End Response ===

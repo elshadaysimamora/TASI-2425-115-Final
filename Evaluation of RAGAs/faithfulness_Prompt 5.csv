@@ -1,0 +1,28 @@
+folder,question,contexts,answer,faithfulness
+Prompt 5,"Jelaskan prosedur untuk mengajukan izin tidak mengikuti perkuliahan karena sakit, termasuk hal-hal yang harus disiapkan dan pihak yang harus dilapori.","['Jelaskan prosedur untuk mengajukan izin tidak mengikuti perkuliahan karena sakit, termasuk hal- hal yang harus disiapkan dan pihak yang harus dilapori. Penjelasan: Mahasiswa yang mengalami masalah kesehatan diwajibkan untuk melaporkan kondisinya kepada Pembina Asrama, yang kemudian akan mengarahkan mahasiswa untuk menjalani pemeriksaan di klinik untuk memastikan keadaan kesehatan yang sesungguhnya. Hasil pemeriksaan medis dari klinik akan menjadi acuan bagi Pembina Asrama dalam memberikan izin khusus, jika diperlukan. Selanjutnya, Pembina Asrama akan melaporkan keputusan terkait izin tersebut melalui sistem Campus Information System (CIS) kepada Dosen yang bersangkutan, guna memastikan bahwa izin tersebut tercatat dan terkoordinasi dengan baik dalam sistem akademik mahasiswa. 2.', 'Uraikan prosedur jika saya sakit saat jam akademik dan perlu kembali ke asrama lebih awal, serta langkah-langkah yang harus diambil jika membutuhkan istirahat atau perawatan Penjelasan: Mahasiswa yang mengalami masalah kesehatan diwajibkan untuk melaporkan kondisinya kepada Pembina Asrama, yang kemudian akan mengarahkan mahasiswa untuk menjalani pemeriksaan di klinik untuk memastikan keadaan kesehatan yang sesungguhnya. Hasil pemeriksaan medis dari klinik akan menjadi acuan bagi Pembina Asrama dalam memberikan izin khusus, jika diperlukan. Selanjutnya, Pembina Asrama akan melaporkan keputusan terkait izin tersebut melalui sistem Campus Information System (CIS) kepada Dosen yang bersangkutan, guna memastikan bahwa izin tersebut tercatat dan terkoordinasi dengan baik dalam sistem akademik mahasiswa. 3. Jelaskan cara mendapatkan izin sakit di luar jam akademik, serta prosedur khusus atau izin yang perlu diajukan.', 'Mahasiswa diwajibkan mengajukan permohonan izin minimal 30 menit sebelum jadwal kurve dimulai dengan menyampaikan alasan yang jelas dan dapat diterima. KATEGORI 5: JAM KOLABORATIF 1. Jelaskan mengenai jadwal kolaboratif di asrama atau di kampus.(Baik itu jam dan hari melakukannya). Penjelasan: Kegiatan kolaboratif di asrama dilaksanakan pada hari Sabtu dan Minggu, dengan dua sesi, yaitu pukul 09.00-12.00 WIB dan 20.00-22.00 WIB. Sedangkan di kampus, kegiatan kolaboratif dijadwalkan pada hari Senin hingga Jumat, dari pukul 20.00-22.00 WIB. 2. Uraikan syarat untuk melakukan kolaboratif di asrama jika ada kondisi mendesak, seperti sakit atau keperluan Zoom. Penjelasan: Izin khusus untuk tidak mengikuti kegiatan kolaboratif di asrama hanya dapat diberikan dengan persetujuan dari Pembina Asrama. Mahasiswa yang mengajukan izin harus melampirkan bukti yang sah, seperti surat sakit atau surat izin dari dosen, sebagai dasar pemberian izin tersebut. 3. Jelaskan aturan mengenai pelaksanaan kolaboratif pada malam Jumat.']","Prosedur untuk mengajukan izin tidak mengikuti perkuliahan karena sakit adalah sebagai berikut:
+
+1. **Melaporkan Kondisi Kesehatan**
+   Mahasiswa yang merasa tidak sehat harus segera melapor kepada **Pembina Asrama**.
+
+2. **Pemeriksaan di Klinik**  
+   Setelah menerima laporan, Pembina Asrama akan mengarahkan mahasiswa untuk **menjalani pemeriksaan kesehatan di klinik** guna memastikan kondisi medis yang sebenarnya.
+
+3. **Hasil Pemeriksaan sebagai Acuan**  
+   Hasil dari pemeriksaan medis tersebut akan digunakan oleh Pembina Asrama sebagai dasar untuk menilai apakah mahasiswa berhak mendapatkan izin tidak mengikuti perkuliahan.
+
+4. **Pemberian Izin Khusus**  
+   Jika dinilai perlu, **Pembina Asrama akan memberikan izin khusus** kepada mahasiswa untuk tidak mengikuti perkuliahan.
+
+5. **Pelaporan Melalui CIS**  
+   Selanjutnya, Pembina Asrama akan melaporkan keputusan izin tersebut melalui **sistem Campus Information System (CIS)** kepada **Dosen yang bersangkutan**, agar data izin mahasiswa tercatat dan terkoordinasi secara resmi dalam sistem akademik.
+
+Hal-hal yang harus disiapkan:
+- Melapor kepada Pembina Asrama sesegera mungkin.
+- Bersedia melakukan pemeriksaan di klinik.
+- Menyimpan hasil pemeriksaan medis sebagai bukti. 
+
+Pihak-pihak yang harus dilapori:
+- **Pembina Asrama** (sebagai titik awal proses izin).
+- Secara tidak langsung, informasi izin akan diteruskan ke **Dosen yang bersangkutan** melalui sistem CIS oleh Pembina Asrama.
+
+=== End Response ===",0.7857142857142857

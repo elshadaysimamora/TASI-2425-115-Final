@@ -1,0 +1,20 @@
+Jika mahasiswa mengalami sakit saat jam akademik dan perlu kembali ke asrama lebih awal, berikut adalah prosedur yang harus dilakukan:
+
+1. **Melapor kepada Pembina Asrama**  
+   Mahasiswa wajib segera melaporkan kondisi kesehatannya kepada Pembina Asrama. Ini adalah langkah awal sebelum mengambil tindakan lebih lanjut.
+
+2. **Pemeriksaan ke Klinik**  
+   Setelah menerima laporan dari mahasiswa, Pembina Asrama akan mengarahkan mahasiswa untuk menjalani pemeriksaan kesehatan di klinik. Pemeriksaan ini bertujuan untuk memastikan kondisi medis mahasiswa secara objektif.
+
+3. **Evaluasi Hasil Pemeriksaan**  
+   Berdasarkan hasil medis dari klinik, Pembina Asrama akan menentukan apakah mahasiswa memerlukan izin khusus (seperti istirahat total di asrama) atau tindakan perawatan lainnya.
+
+4. **Pemberian Izin Khusus**  
+   Jika diperlukan, Pembina Asrama akan memberikan izin sakit kepada mahasiswa untuk kembali ke asrama lebih awal dan beristirahat.
+
+5. **Pelaporan Melalui Campus Information System (CIS)**  
+   Keputusan izin sakit tersebut selanjutnya dilaporkan oleh Pembina Asrama ke dalam sistem Campus Information System (CIS). Hal ini memastikan bahwa dosen terkait mendapatkan informasi resmi sehingga ketidakhadiran mahasiswa tercatat dan terkoordinasi secara administratif.
+
+Dengan mengikuti prosedur ini, mahasiswa tetap bisa mendapatkan perawatan yang dibutuhkan tanpa mengabaikan ketertiban akademik dan administrasi kampus.
+
+=== End Response ===
