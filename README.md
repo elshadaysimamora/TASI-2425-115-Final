@@ -32,7 +32,7 @@ cp .env.example .env
 5️⃣ Generate the application key:
 php artisan key:generate
 
-6️⃣ Run database migrations if required:
+6️⃣ Run database migrations:
 php artisan migrate
 
 7️⃣ Build frontend assets:
