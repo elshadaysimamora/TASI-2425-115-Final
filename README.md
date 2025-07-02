@@ -1,4 +1,5 @@
-# TASI-2425-115 Final Project: IMPLEMENTATION OF PERSONAS-BASED GENERATIVE AI WITH RETRIEVAL-AUGMENTED GENERATION (RAG) APPROACH FOR IMPROVED DORMITORY SERVICE RESPONSE
+# TASI-2425-115 Final Project
+## *Implementation Of Personas-Based Generative Ai With Retrieval-Augmented Generation (Rag) Approach For Improved Dormitory Service Response*
 
 This repository contains the final implementation of an undergraduate thesis project (TASI-2425-115) focusing on the development of a dormitory service chatbot using Retrieval-Augmented Generation (RAG) and persona-based interactions.
 
@@ -31,7 +32,7 @@ cp .env.example .env
 5️⃣ Generate the application key:
 php artisan key:generate
 
-6️⃣ Run database migrations if required:
+6️⃣ Run database migrations:
 php artisan migrate
 
 7️⃣ Build frontend assets:
