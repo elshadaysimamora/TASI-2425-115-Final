@@ -7,6 +7,7 @@ This repository contains the final implementation of an undergraduate thesis pro
 ## 🚀 Features
 - Complete chatbot system for dormitory services, implemented using a Retrieval-Augmented Generation (RAG) approach.
 - Knowledge base consisting of documents used as RAG input to generate accurate and context-aware responses.
+- Code for evaluating faithfulness  using RAGAS metrics to measure the chatbot's contextual relevance and hallucination rate.
 
 ---
 
