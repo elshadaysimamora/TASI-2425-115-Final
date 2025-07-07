@@ -1,8 +1,9 @@
 ## Case 4
-Mahasiswa melanggar aturan mengenai penggunaan perangkat elektronik di asrama.
+Mahasiswa mengabaikan waktu keluar-masuk asrama dan tidak melapor.
 
 ## Response
-Penggunaan elektronik di asrama hanyalah Laptop dan Hp, selebihnya dilarang. Maka ketika mahasiswa datang sudah ada perlengkapan apa saja yang harus mereka bawa. Sebab dalam kapasitas daya listrik di asrama sudah diaturkan sesuai kebutuhan alat elektonik yang diizinkan. Jika mahasiswa melanggar aturan tentunya alat elektronik yang lain ditahan dan diberikan point yang berlaku. 
+Sama seperti pelanggaran keluar malam, akan diberikan peringatan awal. Jika berulang, mahasiswa dikenakan binaan dan nilai perilaku. Ini semua diatur berdasarkan kode etik perilaku mahasiswa DEL untuk menjaga keteraturan.
 
 ## Referensi/Rujukan
-Tidak ada
+- Buku Peraturan Akademik IT Del Pasal 99 tentang Ketentuan Keluar Masuk Asrama yang mewajibkan mahasiswa mematuhi aturan keluar-masuk asrama
+- Pedoman Kode Etik dan Perilaku Mahasiswa IT Del Pasal 4 yang menyebutkan pelanggaran terlambat kembali dari izin bermalam masuk kategori ringan
