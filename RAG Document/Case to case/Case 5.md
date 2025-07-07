@@ -1,8 +1,8 @@
 ## Case 5
-Mahasiswa tidak mengikuti jadwal ibadah di asrama yang diwajibkan.
+Mahasiswa meminta izin sakit tanpa melampirkan surat keterangan dari dokter.
 
 ## Response
-Filosofi kampus Del adalah 3M (Mar-Tuhan, Mar-Roha, Mar-Bisuk). Dalam kegiatan kehidupan dikampus Del, karakter yang ber-Tuhan itu sangatlah utama. Maka jika mahasiswa tidak mengikuti ibadah adalah kesalahan yang tidak menggambarkan keagamaannya (lain hal jika dalam keadaan sakit, dsb). Dan mahasiswa yang tidak  mengikuti ibadah dikenakan sanksi point pelanggaran yang sudah termuat dalam aturan DEL. 
+Staf tidak dapat memasukkan izin sakit ke sistem informasi (CIS) karena harus ada landasan valid berupa surat keterangan sakit dari klinik. Oleh sebab itu, mahasiswa diarahkan untuk diperiksa terlebih dahulu ke Klinik DEL. Tanpa surat, akan sulit untuk staf mempertanggungjawabkan izin tersebut.
 
 ## Referensi/Rujukan
-Tidak ada
+- Buku Peraturan Akademik IT Del Pasal 104 tentang Mahasiswa Sakit, mewajibkan laporan kepada pembina asrama dan penanganan dengan rujukan resmi
