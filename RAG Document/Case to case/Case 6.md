@@ -1,8 +1,8 @@
 ## Case 6
-Mahasiswa tidak menyelesaikan tugas kebersihan di area umum.
+Mahasiswa mengundurkan diri dari kegiatan asrama tanpa alasan yang jelas.
 
 ## Response
-Pembentukan karakter mar-Roha juga diterapkan dalam hal kepedulian terhadap lingkungan. Kebersihan adalah cerminan karakter yang baik, maka setiap mahasiswa diberikan tanggungjawab dalam kebersihan itu. 
+Pembina asrama akan menanyakan langsung penyebab ketidakhadiran. Jika alasan tidak jelas atau disengaja, pembina asrama berhak memberikan sanksi. Selain itu, izin bermalam (IB) juga dapat dibatalkan terutama jika bertepatan dengan kegiatan penting kampus/asrama seperti kuliah umum atau acara wajib lainnya.
 
 ## Referensi/Rujukan
-Tidak ada
+- Buku Peraturan Akademik IT Del Pasal 96 tentang kewajiban warga asrama mengikuti semua aturan dan kegiatan pembinaan
