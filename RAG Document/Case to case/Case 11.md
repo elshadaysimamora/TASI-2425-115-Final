@@ -1,8 +1,8 @@
 ## Case 11
-Mahasiswa sering tidak melapor jika terjadi kerusakan fasilitas.
+Mahasiswa mengalami kesulitan beradaptasi dengan lingkungan sosial di asrama.
 
 ## Response
-Mahasiswa sebagai penghuni asrama memiliki tanggung jawab dan kewajiban untuk segera melaporkan setiap kerusakan fasilitas yang terjadi, baik di kamar maupun fasilitas umum. Hal ini penting agar perbaikan dapat segera dilakukan dan kerusakan tidak bertambah parah.Jika mahasiswa tidak melapor, kerusakan bisa menjadi lebih parah dan mengganggu kenyamanan penghuni lain. Selain itu, pengelola asrama/pembina asrama sulit melakukan perbaikan karena tidak menyampaikan ke pihak maintanence dan perbaikanpun tidak tepat waktu karena tidak mengetahui kondisi sebenarnya
+Staf akan melakukan pendekatan personal agar mahasiswa merasa diperhatikan. Jika perlu, akan dilanjutkan ke konseling dengan psikolog kampus seperti Ibu Laura, Ibu Ina, atau Ibu Glory dari Ayasa agar mahasiswa mendapat bantuan lebih profesional.
 
 ## Referensi/Rujukan
-Tidak ada
+- Buku Peraturan Akademik IT Del Pasal 68-70 tentang Bimbingan, Penyuluhan, dan Konseling untuk mendukung adaptasi mahasiswa
