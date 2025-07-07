@@ -1,8 +1,8 @@
 ## Case 14
-Mahasiswa sering membawa barang elektronik yang mengganggu kenyamanan asrama.
+Mahasiswa mengakses ruang umum tanpa izin staf.
 
 ## Response
-Mahasiswa yang sering membawa barang elektronik yang mengganggu kenyamanan asrama perlu diberikan perhatian khusus karena hal ini dapat berdampak negatif pada ketertiban dan kenyamanan bersama penghuni asrama. Asrama merupakan lingkungan bersama yang harus dijaga agar tetap kondusif untuk belajar dan beristirahat. Mahasiswa wajib mematuhi aturan tersebut dan menggunakan barang elektronik dengan bijak, misalnya menggunakan headphone saat mendengarkan musik. Mahasiswa yang melanggar aturan dengan membawa atau menggunakan barang elektronik yang mengganggu dapat diberikan teguran lisan atau tertulis. Dalam aturan di DEL juga sudah tertera terkait mahasiswa yang memberikan ketidaknyamanan, kericuhan, keributan akan ditindak lanjuti dengan sanksi berupa point pelanggaran. 
+Mahasiswa akan ditegur karena penggunaan ruang tertentu (misalnya lab, audit, atau infocus) membutuhkan izin agar fasilitas terjaga. Hal ini menghindari kerusakan alat-alat yang nilainya sangat mahal dan merugikan banyak pihak.
 
 ## Referensi/Rujukan
-Tidak ada
+- Pedoman Kode Etik Pasal 1 menyebutkan masuk ke ruangan pimpinan/dosen tanpa izin termasuk pelanggaran ringan
