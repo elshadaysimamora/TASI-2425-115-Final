@@ -1,8 +1,8 @@
 ## Case 10
-Mahasiswa mengeluhkan fasilitas Wi-Fi yang sering bermasalah.
+Mahasiswa membawa tamu tanpa izin sebelumnya.
 
 ## Response
-Terkait hal ini sebenarnya sangat sulit saya jawab dikarenakan tidak menjadi ranah dari pembina asrama. Mungkin jika memang fasilitas Wi-Fi yang sering bermasalah, mahasiswa bisa menyampaikan aspirasi kepada pihak BEM (sebagai sarana aspirasi) dengan begitu BEM bisa menyampaikan kepada pihak yang menangani hal tersebut.
+Mahasiswa akan ditegur dan dapat dikenakan sanksi, karena membawa tamu tanpa izin meningkatkan risiko kehilangan barang pribadi (mengingat pintu asrama tidak dikunci sehingga terbuka). Hal ini juga untuk menjaga privasi penghuni lain.
 
 ## Referensi/Rujukan
-Pasal 96 – Pedoman Akademik 2021–2022
+- Buku Peraturan Akademik IT Del Pasal 100 melarang mahasiswa berkunjung ke asrama lawan jenis dan mewajibkan menjaga hubungan serta melapor pelanggaran
