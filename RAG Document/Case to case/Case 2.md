@@ -1,8 +1,10 @@
 ## Case 2
-Mahasiswa mengabaikan kebersihan lingkungan di asrama, terutama di kamar mandi umum.
+Mahasiswa tidak mengikuti jadwal kegiatan kebersihan asrama (kurve).
 
 ## Response
-Tentunya hal ini sangat salah. Dan memiliki prosedur dari kode etik peraturan yang ada di DEL ini. Proses konsekuensi yang harus diterima oleh mahasiswa biasanya diaturkan dengan pembina asramanya. 
+Karena termasuk pelanggaran ringan, staf asrama akan mengingatkan, menasehati, atau meminta mahasiswa untuk kembali membersihkan area kurvenya. Jika pelanggaran terulang setelah dua kali diingatkan, akan diberikan nilai perilaku yang menjadi bagian evaluasi ketaatan mahasiswa terhadap proses pembinaan.
 
 ## Referensi/Rujukan
-Pasal 96 – Pedoman Akademik 2021–2022
+- Buku Peraturan Akademik IT Del Pasal 97 tentang kewajiban menjaga kebersihan dan kerapian lingkungan asrama
+
+- Pedoman Kode Etik menyatakan tidak melaksanakan tugas piket kebersihan masuk kategori pelanggaran ringan
