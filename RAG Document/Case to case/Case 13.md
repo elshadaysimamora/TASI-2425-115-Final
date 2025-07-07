@@ -1,8 +1,8 @@
 ## Case 13
-Mahasiswa merasa tidak adil dalam pembagian tugas kebersihan di asrama.
+Mahasiswa merasa kesulitan dengan aturan pakaian yang ketat.
 
 ## Response
-Mahasiswa yang merasa tidak adil dalam pembagian tugas kebersihan di asrama mengungkapkan perasaan yang penting untuk diperhatikan demi terciptanya suasana yang harmonis dan kerja sama yang baik antar penghuni asrama. Tugas kebersihan bersama adalah bagian dari tanggung jawab kolektif untuk menjaga kenyamanan dan kebersihan lingkungan asrama. Pembina asrama perlu mengevaluasi sistem pembagian tugas yang ada, apakah sudah transparan, objektif, dan mempertimbangkan kondisi masing-masing mahasiswa.
+Pembina akan menilai apakah mahasiswa sulit karena benar-benar tidak mampu menyesuaikan diri atau karena sengaja membandel (ngeyel). Jika memang tidak mampu, mahasiswa akan dibimbing. Namun jika terbukti sengaja menolak, akan dikenakan tindakan sesuai prosedur pembinaan.
 
 ## Referensi/Rujukan
-Tidak ada
+- Buku Peraturan Akademik IT Del Pasal 96 dan Pasal 99 menegaskan wajibnya mahasiswa mematuhi semua tata tertib di asrama dan kampus
