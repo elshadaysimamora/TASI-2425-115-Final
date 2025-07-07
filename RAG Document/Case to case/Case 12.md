@@ -1,8 +1,8 @@
 ## Case 12
-Mahasiswa mengeluh tentang kebijakan waktu keluar yang ketat.
+Mahasiswa meninggalkan barang di tempat umum di asrama.
 
 ## Response
-Mahasiswa yang mengeluh tentang kebijakan waktu keluar asrama yang ketat sebenarnya menyampaikan aspirasi yang penting untuk diperhatikan, namun perlu dipahami juga bahwa kebijakan tersebut dibuat dengan tujuan menjaga keamanan, ketertiban, dan kenyamanan bersama di lingkungan asrama. Jam keluar-masuk mahasiswa/i DEL sudah diaturkan sedemikian rupa dengan kebutuhan yang mempertimbangkan berbagai sisi baik dari segi aturan, akademik, dan pola kehidupan yang baik.
+Mahasiswa akan diberikan nasehat atau peringatan. Pembinaan ini bertujuan agar mahasiswa belajar bertanggung jawab terhadap barang pribadinya, dan tidak meremehkan hal-hal kecil yang menjadi kebutuhannya sehari-hari.
 
 ## Referensi/Rujukan
-Tidak ada
+- Buku Peraturan Akademik IT Del Pasal 105 mengatur perlengkapan pribadi mahasiswa harus dijaga, serta Pasal 108 tentang penanganan kehilangan
