@@ -1,8 +1,9 @@
 ## Case 8
-Mahasiswa tidak mengisi form izin saat keluar asrama pada waktu yang tidak ditentukan.
+Mahasiswa sering terlambat kembali ke asrama tanpa memberi pemberitahuan sebelumnya.
 
 ## Response
-Tindakan mahasiswa yang tidak mengisi form izin saat keluar asrama pada waktu yang tidak ditentukan merupakan pelanggaran terhadap tata tertib asrama yang telah disepakati bersama. Formulir izin keluar asrama dibuat untuk menjaga keamanan, ketertiban, serta memudahkan pengelola asrama dalam memantau keberadaan mahasiswa. Form izin keluar asrama bertujuan untuk memastikan keselamatan penghuni asrama dan sebagai bentuk tanggung jawab serta disiplin diri mahasiswa. Dengan mengisi form izin, pihak asrama dapat mengetahui siapa saja yang sedang berada di dalam atau di luar asrama, sehingga memudahkan penanganan jika terjadi keadaan darurat. 
+Mahasiswa akan diingatkan dan dinasehati. Jika sudah dua kali diingatkan tapi tetap terlambat, maka akan diberikan nilai perilaku. Semua tindakan ini bertujuan membina kedisiplinan dan sesuai prosedur pembinaan DEL.
 
 ## Referensi/Rujukan
-Tidak ada
+- Buku Peraturan Akademik IT Del Pasal 99 tentang Ketentuan Keluar Masuk Asrama yang mewajibkan mahasiswa mematuhi aturan keluar-masuk asrama
+- Pedoman Kode Etik dan Perilaku Mahasiswa IT Del Pasal 4 yang menyebutkan pelanggaran terlambat kembali dari izin bermalam masuk kategori ringan
