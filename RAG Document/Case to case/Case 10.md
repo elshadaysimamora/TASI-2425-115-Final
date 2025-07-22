@@ -1,8 +1,8 @@
 ## Case 10
-Mahasiswa membawa tamu tanpa izin sebelumnya.
+Tidak melaksanakan jadwal kebersihan (kurve) asrama sesuai ketentuan.
 
 ## Response
-Mahasiswa akan ditegur dan dapat dikenakan sanksi, karena membawa tamu tanpa izin meningkatkan risiko kehilangan barang pribadi (mengingat pintu asrama tidak dikunci sehingga terbuka). Hal ini juga untuk menjaga privasi penghuni lain.
+Mahasiswa yang tidak melaksanakan kurve akan dipanggil dan disuruh mengulang tugas kebersihan. Jika sering terjadi, area kurve mahasiswa dapat diperluas sebagai efek jera. Dalam beberapa kasus, pelanggaran ini juga dapat dimasukkan ke poin pelanggaran.
 
 ## Referensi/Rujukan
-- Buku Peraturan Akademik IT Del Pasal 100 melarang mahasiswa berkunjung ke asrama lawan jenis dan mewajibkan menjaga hubungan serta melapor pelanggaran
+- Pedoman Kode Etik dan Perilaku Mahasiswa IT Del, Pasal 2 No 24

@@ -1,8 +1,10 @@
 ## Case 6
-Mahasiswa mengundurkan diri dari kegiatan asrama tanpa alasan yang jelas.
+Mahasiswa terlambat kembali ke asrama pada malam hari
 
 ## Response
-Pembina asrama akan menanyakan langsung penyebab ketidakhadiran. Jika alasan tidak jelas atau disengaja, pembina asrama berhak memberikan sanksi. Selain itu, izin bermalam (IB) juga dapat dibatalkan terutama jika bertepatan dengan kegiatan penting kampus/asrama seperti kuliah umum atau acara wajib lainnya.
+Jika mahasiswa tidak memberikan konfirmasi keterlambatan, staf asrama akan memberikan tindakan disiplin. Jika pelanggaran berulang, mahasiswa akan dikenakan poin pelanggaran. Namun, jika mahasiswa sudah mengonfirmasi alasannya sebelum terlambat, maka pembina akan memberi toleransi dengan peringatan agar tidak mengulang.
 
 ## Referensi/Rujukan
-- Buku Peraturan Akademik IT Del Pasal 96 tentang kewajiban warga asrama mengikuti semua aturan dan kegiatan pembinaan
+- Pedoman Kode Etik dan Perilaku Mahasiswa IT Del
+
+- Pasal 4 Tentang Keluar dan Masuk Kampus, Buku Peraturan Akademik IT Del, Pasal 99

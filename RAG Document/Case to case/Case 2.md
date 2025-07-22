@@ -1,10 +1,10 @@
 ## Case 2
-Mahasiswa tidak mengikuti jadwal kegiatan kebersihan asrama (kurve).
+Mahasiswa tidak mengumpulkan KTB
 
 ## Response
-Karena termasuk pelanggaran ringan, staf asrama akan mengingatkan, menasehati, atau meminta mahasiswa untuk kembali membersihkan area kurvenya. Jika pelanggaran terulang setelah dua kali diingatkan, akan diberikan nilai perilaku yang menjadi bagian evaluasi ketaatan mahasiswa terhadap proses pembinaan.
+Mahasiswa yang tidak mengumpulkan KTB akan diingatkan terlebih dahulu secara lisan. Jika pelanggaran diulang hingga 3 kali, maka akan diberikan poin pelanggaran (kategori ringan, 5 poin). Pembina asrama juga membahas kasus ini pada evaluasi asrama untuk mencegah pelanggaran serupa oleh mahasiswa lainnya.
 
 ## Referensi/Rujukan
-- Buku Peraturan Akademik IT Del Pasal 97 tentang kewajiban menjaga kebersihan dan kerapian lingkungan asrama
+- Pedoman Kode Etik dan Perilaku Mahasiswa IT Del, Pasal 6 No 3
 
-- Pedoman Kode Etik menyatakan tidak melaksanakan tugas piket kebersihan masuk kategori pelanggaran ringan
+- Buku Peraturan Akademik IT Del, Bab VII Pasal 72 tentang kewajiban mengikuti kegiatan pengembangan karakter

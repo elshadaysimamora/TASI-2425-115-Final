@@ -1,9 +1,8 @@
 ## Case 8
-Mahasiswa sering terlambat kembali ke asrama tanpa memberi pemberitahuan sebelumnya.
+Mahasiswa membawa makanan yang tidak diperbolehkan ke area asrama.
 
 ## Response
-Mahasiswa akan diingatkan dan dinasehati. Jika sudah dua kali diingatkan tapi tetap terlambat, maka akan diberikan nilai perilaku. Semua tindakan ini bertujuan membina kedisiplinan dan sesuai prosedur pembinaan DEL.
+Makanan yang tidak diperbolehkan akan disita oleh security. Mahasiswa dipanggil dan diberikan poin pelanggaran. Jika pelanggaran terjadi berulang, kasusnya akan dibawa ke lembaga kemahasiswaan untuk pembinaan lebih lanjut.
 
 ## Referensi/Rujukan
-- Buku Peraturan Akademik IT Del Pasal 99 tentang Ketentuan Keluar Masuk Asrama yang mewajibkan mahasiswa mematuhi aturan keluar-masuk asrama
-- Pedoman Kode Etik dan Perilaku Mahasiswa IT Del Pasal 4 yang menyebutkan pelanggaran terlambat kembali dari izin bermalam masuk kategori ringan
+- Pedoman Kode Etik dan Perilaku Mahasiswa IT Del, Pasal 2 No 20

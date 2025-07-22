@@ -1,9 +1,10 @@
 ## Case 3
-Mahasiswa membawa barang terlarang ke dalam asrama (misalnya alkohol).
+Membawa Barang yang Dilarang / Tidak Diizinkan ke Asrama
 
 ## Response
-Staf akan mengamankan barang tersebut. Jika barang termasuk kategori terlarang seperti alkohol, rokok, vape, maka tidak diizinkan sama sekali. Untuk barang tertentu yang dibutuhkan pada event kampus (misalnya make up saat IDG), masih diperbolehkan jika ada izin dari pembina asrama. Jika tanpa izin, barang dapat diamankan agar tidak digunakan bebas yang dapat menimbulkan kekacauan di asrama.
+Mahasiswa yang ketahuan membawa barang terlarang akan langsung diberi poin pelanggaran tanpa peringatan. Barang akan disita dan mahasiswa dipanggil untuk mempertanggungjawabkan perbuatannya. Jika barang yang dibawa berpotensi berbahaya (misalnya senjata tajam), orang tua mahasiswa akan dipanggil bersama pihak kemahasiswaan untuk dilakukan pembinaan lebih lanjut.
 
 ## Referensi/Rujukan
-- Buku Peraturan Akademik IT Del Pasal 105 tentang perlengkapan pribadi mahasiswa yang membatasi jenis barang yang boleh dibawa
-- Pedoman Kode Etik Pasal 8 melarang membawa minuman keras, rokok, obat terlarang (kategori pelanggaran berat)
+- Pedoman Kode Etik dan Perilaku Mahasiswa IT Del, Pasal 2 No 32
+
+- Pedoman Kode Etik dan Perilaku Mahasiswa IT Del, Pasal 2 No 41
