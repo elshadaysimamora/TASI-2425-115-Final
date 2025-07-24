@@ -32,6 +32,8 @@ class TextExactorService
                 return $this->extractDocxText($filePath);
             case 'pptx':
                 return $this->extractPptxText($filePath);
+            case 'md':
+                return $this->extractPptxText($filePath);
             default:
                 throw new \Exception("File type {$extension} is not supported");
         }
